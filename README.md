@@ -126,5 +126,5 @@ Os dados ficam **apenas na memória** do navegador (dentro dos serviços). Ao re
 
 ## 👤 Autor
 
-**João Pedro**
+**João Pedro Firmino de Souza**
 Projeto acadêmico, disciplina de Aprofundamento em Desenvolvimento Front-End.
